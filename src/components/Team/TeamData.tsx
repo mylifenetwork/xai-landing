@@ -30,6 +30,13 @@ const brandsData: Team[] = [
     desc: '4 yrs Software Development \n BEng HKUST'
   },
   {
+    id: 7,
+    image: '/images/team/yoyo.jpeg',
+    name: 'Dingzhan Nong',
+    title: 'AI and Backend Engineer',
+    desc: '5 yrs in AI & Data Analysis \n MSc HKBU'
+  },
+  {
     id: 5,
     image: '/images/team/raymond_wong.jpeg',
     name: 'Prof. Raymond Wong',
