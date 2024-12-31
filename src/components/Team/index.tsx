@@ -27,7 +27,7 @@ const Person = ({ person }: { person: Team }) => {
   const { image, name, title, desc } = person;
 
   return (
-    <div className="flex w-1/4 items-center justify-center px-3 py-[30px] sm:w-full md:w-1/3 lg:w-1/4 xl:w-1/4">
+    <div className="flex w-full items-center justify-center px-3 py-[30px] sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/4">
       {/* <a
         href={href}
         target="_blank"
