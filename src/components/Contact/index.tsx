@@ -10,7 +10,7 @@ const Contact = () => {
                 Get Started Today
               </h2>
               <p className="mb-12 text-xl font-medium text-body-color">
-              Ready to elevate your enterprise with AI? Contact us for a free consultation and discover how our customized solutions can transform your business.
+              Ready to elevate your enterprise with AI? Contact us at <a href="admin@xai.hk">admin@xai.hk</a> for a free consultation and discover how our customized solutions can transform your business.
               </p>
           </div>
           <div className="w-full px-4 lg:w-7/12 xl:w-8/12">
