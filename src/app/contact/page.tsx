@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Us"
-        description="Ready to elevate your enterprise with AI? Contact us for a free consultation and discover how our customized solutions can transform your business."
+        description="Ready to elevate your enterprise with AI? Contact us at admin@xai.hk for a free consultation and discover how our customized solutions can transform your business."
       />
 
       <Contact />
