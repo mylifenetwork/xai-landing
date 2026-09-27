@@ -9,9 +9,15 @@ const Contact = () => {
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
                 Get Started Today
               </h2>
-              <p className="mb-12 text-xl font-medium text-body-color">
+              <p className="mb-8 text-xl font-medium text-body-color">
               Ready to elevate your enterprise with AI? Contact us at admin@xai.hk for a free consultation and discover how our customized solutions can transform your business.
               </p>
+              <address className="mb-12 text-base not-italic leading-relaxed text-body-color">
+                <span className="mb-2 block text-lg font-semibold text-black dark:text-white">
+                  Our Office
+                </span>
+                Room 7, 2WCWC, 3/F, Building 2W, No. 2 Science Park West Ave, HKSTP, Shatin, NT
+              </address>
           </div>
           <div className="w-full px-4 lg:w-7/12 xl:w-8/12">
             <div
