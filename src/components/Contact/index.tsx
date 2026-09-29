@@ -10,13 +10,29 @@ const Contact = () => {
                 Get Started Today
               </h2>
               <p className="mb-8 text-xl font-medium text-body-color">
-              Ready to elevate your enterprise with AI? Contact us at admin@xai.hk for a free consultation and discover how our customized solutions can transform your business.
+              Ready to elevate your enterprise with AI? Contact us at admin@xai.hk or{" "}
+              <a
+                href="tel:+85290481782"
+                className="text-primary duration-300 hover:underline"
+              >
+                +852 9048 1782
+              </a>{" "}
+              for a free consultation and discover how our customized solutions can transform your business.
               </p>
               <address className="mb-12 text-base not-italic leading-relaxed text-body-color">
                 <span className="mb-2 block text-lg font-semibold text-black dark:text-white">
                   Our Office
                 </span>
                 Room 7, 2WCWC, 3/F, Building 2W, No. 2 Science Park West Ave, HKSTP, Shatin, NT
+                <span className="mt-4 block">
+                  Phone:{" "}
+                  <a
+                    href="tel:+85290481782"
+                    className="text-primary duration-300 hover:underline"
+                  >
+                    +852 9048 1782
+                  </a>
+                </span>
               </address>
           </div>
           <div className="w-full px-4 lg:w-7/12 xl:w-8/12">
